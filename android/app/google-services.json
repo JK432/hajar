@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286169362342",
+    "project_id": "haajar-4639b",
+    "storage_bucket": "haajar-4639b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286169362342:android:705a147e29c0124940e967",
+        "android_client_info": {
+          "package_name": "com.example.hajar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286169362342-eirlftv80g5hojpj7dgn9q79tpo2keje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hajar",
+            "certificate_hash": "cd3aacda715c06656a06df37faf8ea9ed0857628"
+          }
+        },
+        {
+          "client_id": "286169362342-agfkkagrn1mnlrihnq1u95u1bsuv3eqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTEszKFVk1BXIKUwubuPhfcm0E40UZAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286169362342-agfkkagrn1mnlrihnq1u95u1bsuv3eqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
